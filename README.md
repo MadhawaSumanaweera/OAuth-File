@@ -1,6 +1,6 @@
 # OAuth-File
 This App is developed for SLIIT - MSc in Cyber Security Course - Software Security Subject By Madhawa Sumanaweera (MS20918606). 
-JDK 1.8 and mevan 3.8.1 use to develop this aplication. 
-Environmental veriables should modify befor run the application as indicated the attached project report.
+JDK 1.8 and mevan 3.8.1 use to develop this application. 
+Environmental veriables should modify before run the application as indicated the attached project report.
 Demonstrating video about this application and other necessary key configuration is available in youtube - https://youtu.be/UuToMKz_HuQ
 To check this application you should have internet facility during you testing time
