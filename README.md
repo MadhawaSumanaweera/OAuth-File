@@ -3,3 +3,4 @@ This App is developed for MSc in Cyber Security Course - Software Security Subje
 JDK 1.8 and mevan 3.8.1 use to develop this aplication. 
 Environmental veriables should modify befor run the application as indicated the attached project report.
 Demonstrating video about this application and other necessary key configuration is available in youtube - https://youtu.be/UuToMKz_HuQ
+To check this application you should have internet facility during you testing time
